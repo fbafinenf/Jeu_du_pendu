@@ -76,4 +76,4 @@ def jeu_pendu():
     print("Défaite... Vouc avez perdu !")          #en cas de défaite...
     print("Le bon mot était : ", mot_aleatoire)
 
-jeu_pendu()   #on lance le jeu
+jeu_pendu()   #on lance le jeu complet
