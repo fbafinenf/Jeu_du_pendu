@@ -116,7 +116,7 @@ def jeu_pendu():
         if victoire(mot_aleatoire,lettre_trouvees):     #en cas de victoire !!!
             print("Victoire !")
             print("Le bon mot était : ", mot_aleatoire)
-            return
+            return rejouer()
         if chances == 1:                  #cas particulier de la dernière vie avec indice possible
             while True:
                 choix = input("Voulez-vous in indice ? (répondre oui ou non)")      #demande à l'utilisateur
