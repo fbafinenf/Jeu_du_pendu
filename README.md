@@ -9,7 +9,7 @@ Ce projet est une version en Python du jeu du pendu. Le joueur doit deviner un m
  
 ## Utilisation
  
-1. Lancer `Jeu du pendu.py` avec Python 3
+1. Lancer `Jeu du pendu.py` avec Python 
 2. Fournir le chemin (path) vers votre propre fichier `.txt` de mots, **ou** appuyer sur `Entrée` pour utiliser le fichier par défaut (`mots_pendu.txt`)
 3. Suivre les instructions affichées dans le terminal pour jouer
 4. Note : Le mot à deviner ne comporte aucun accent ni cédille.
