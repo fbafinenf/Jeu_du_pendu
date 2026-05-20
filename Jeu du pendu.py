@@ -1,3 +1,8 @@
+#Fabien Koch - KOCF83320301
+#Jeu du pendu
+#MGA802
+#Ce projet est une version en Python du jeu du pendu. Le joueur doit deviner un mot lettre par lettre avant de perdre ses 6 vies. Une fonction d'indice est disponible à la dernière vie.
+
 import random
 
 #on commence par définir toutes les fonctions
